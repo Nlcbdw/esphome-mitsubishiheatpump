@@ -91,4 +91,5 @@ def to_code(config):
         name="HeatPump",
         repository="https://github.com/SwiCago/HeatPump",
         #version="d6a29134401d7caae1b8fca9c452c8eb92af60c5",
+        version="ed3b700dd4b110253368cc9f6960516d228e33d8",
     )
